@@ -47,9 +47,7 @@ i'm harry, a msc compsci student from dublin.
 
 ## connect with me
 
-insta:
-twitter:
-linkedin:
+- LinkedIn: [harry-ó](https://www.linkedin.com/in/harry-ó-97818b14a)
 
 ![Nerd GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
