@@ -5,11 +5,10 @@ i'm harry, a msc compsci student from dublin.
 - 🔭 i’m currently working on various web development projects.
 - 🌱 i’m currently learning everything i can about `node.js`, `react`, `flask`, and `python`.
 - 👯 i’m looking to collaborate on open source projects.
-- 💬 ask me about `html`, `css`, `jsx`, `js`, `git`, `bash`, `ssh`.
 - 📫 reach out to me on my socials below!
 
 
-## comfortable with
+## learning
 
 - javascript (js), html, css, and jsx: tools for frontend development.
 - react: library for building user interfaces.
