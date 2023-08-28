@@ -10,9 +10,9 @@ i'm harry, a msc compsci student from dublin.
 
 ## learning
 
-- javascript (js), html, css, and jsx: tools for frontend development.
+- js, html, css, and jsx: tools for frontend development.
 - react: library for building user interfaces.
-- node.js: runtime for executing javascript outside a web browser.
+- node + next.js: runtime for executing javascript outside a web browser.
 - flask: python-based web framework.
 - python: used for various back-end tasks.
 - git: version control system.
@@ -30,7 +30,6 @@ i'm harry, a msc compsci student from dublin.
 
 ## want to learn
 
-- next.js: a React framework that provides features like server-side rendering and generating static websites for React-based web applications.
 - typeScript: a statically typed superset of JavaScript that brings type safety and other features, enhancing productivity and code quality.
 - docker: an open-source platform used for developing, shipping, and running applications using containerization.
 - graphQL: a query language for APIs and a runtime for executing those queries with your existing data.
